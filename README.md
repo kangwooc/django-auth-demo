@@ -9,7 +9,7 @@ This system contains authenication system with Django and DRF.
 3. clone the repo and run
 
 ```bash
-cd oxford-backend
+cd django-auth-demo
 pip install -r requirements.txt
 ```
 
